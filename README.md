@@ -1,4 +1,4 @@
-<p align="center">
+    "helpUri": "https://eng.ms/docs/microsoft-security/security/azure-security/cloudai-security-fundamentals-engineering/security-integration/guardian-wiki/microsoft-guardian/general/baselines"<p align="center">
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
 </p>
